@@ -8,6 +8,13 @@
             "sha": "a324eb4f1c7ace10ab02b9b07e725ac6a01e012b"
         },
         {
+            "name": "Bitwarden_Vault",
+            "filename": "Bitwarden_Vault.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Bitwarden_Vault.mpa",
+            "size_bytes": 7969,
+            "sha": "d824ad2b4522ebddce7421bf5feafc5ab1b2790a"
+        },
+        {
             "name": "ChatGPT",
             "filename": "ChatGPT.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/ChatGPT.mpa",

@@ -8,6 +8,13 @@
             "sha": "a324eb4f1c7ace10ab02b9b07e725ac6a01e012b"
         },
         {
+            "name": "ArchiveOrg",
+            "filename": "ArchiveOrg.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/ArchiveOrg.mpa",
+            "size_bytes": 856,
+            "sha": "4a46cd4501ace9351d65e312c74508bcbb27b742"
+        },
+        {
             "name": "Bitwarden_Vault",
             "filename": "Bitwarden_Vault.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Bitwarden_Vault.mpa",
@@ -195,6 +202,13 @@
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/WhatsApp.mpa",
             "size_bytes": 60421,
             "sha": "86754f4c7dd1acb8c6032104305dffc3ef207a92"
+        },
+        {
+            "name": "Wikipedia",
+            "filename": "Wikipedia.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Wikipedia.mpa",
+            "size_bytes": 553995,
+            "sha": "bc9ad2b91f0d8af1c880179299f1fcaddae11a24"
         },
         {
             "name": "Wordle",

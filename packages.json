@@ -36,13 +36,6 @@
             "sha": "aa98092578e6e4f519a9ec90c870dfcf8c5efe60"
         },
         {
-            "name": "Google_Sheets",
-            "filename": "Google_Sheets.mpa",
-            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Google_Sheets.mpa",
-            "size_bytes": 5727,
-            "sha": "0d36954ec79e48c8e5ee28fb91f313b4d59bd069"
-        },
-        {
             "name": "Google_Slides",
             "filename": "Google_Slides.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Google_Slides.mpa",
@@ -55,6 +48,13 @@
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Photopea.mpa",
             "size_bytes": 164686,
             "sha": "05c265ba831cf851f0f744d0d729188b272c2291"
+        },
+        {
+            "name": "Sheets",
+            "filename": "Sheets.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Sheets.mpa",
+            "size_bytes": 5727,
+            "sha": "0d36954ec79e48c8e5ee28fb91f313b4d59bd069"
         },
         {
             "name": "Slack",

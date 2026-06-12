@@ -64,6 +64,13 @@
             "sha": "05c265ba831cf851f0f744d0d729188b272c2291"
         },
         {
+            "name": "Reddit",
+            "filename": "Reddit.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Reddit.mpa",
+            "size_bytes": 13364,
+            "sha": "cfc023fdf971858c482d590e0be929242d05e756"
+        },
+        {
             "name": "Sheets",
             "filename": "Sheets.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Sheets.mpa",

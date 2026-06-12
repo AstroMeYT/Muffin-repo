@@ -349,6 +349,13 @@
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/YouTube.mpa",
             "size_bytes": 1108,
             "sha": "b90a72ae03a8c2ad91a76b7b635ac33901c3b61a"
+        },
+        {
+            "name": "rollApp-LibreOffice",
+            "filename": "rollApp-LibreOffice.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/rollApp-LibreOffice.mpa",
+            "size_bytes": 3169,
+            "sha": "a6a788ccc7bd5fb71389e0cd20db857c80a62276"
         }
     ]
 }

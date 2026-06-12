@@ -34,6 +34,13 @@
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Google_Earth.mpa",
             "size_bytes": 24252,
             "sha": "ad06469750aa4e41f6b56316b3c255f84e193fe7"
+        },
+        {
+            "name": "Photopea",
+            "filename": "Photopea.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Photopea.mpa",
+            "size_bytes": 164686,
+            "sha": "05c265ba831cf851f0f744d0d729188b272c2291"
         }
     ]
 }

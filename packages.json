@@ -64,6 +64,13 @@
             "sha": "aa98092578e6e4f519a9ec90c870dfcf8c5efe60"
         },
         {
+            "name": "Instant-io",
+            "filename": "Instant-io.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Instant-io.mpa",
+            "size_bytes": 8790,
+            "sha": "b1fe44e11a3f47138b77786ed4eed61d6780ae84"
+        },
+        {
             "name": "PacMan",
             "filename": "PacMan.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/PacMan.mpa",

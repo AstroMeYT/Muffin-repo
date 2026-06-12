@@ -48,6 +48,13 @@
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Photopea.mpa",
             "size_bytes": 164686,
             "sha": "05c265ba831cf851f0f744d0d729188b272c2291"
+        },
+        {
+            "name": "Slack",
+            "filename": "Slack.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Slack.mpa",
+            "size_bytes": 8688,
+            "sha": "1d83be3d236657974db659499e09673c5f2732a0"
         }
     ]
 }

@@ -27,6 +27,13 @@
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Google_Docs.mpa",
             "size_bytes": 3104,
             "sha": "e7b05f16e936882e9dc2662f5be043b98d5a53e1"
+        },
+        {
+            "name": "Google_Earth",
+            "filename": "Google_Earth.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Google_Earth.mpa",
+            "size_bytes": 24252,
+            "sha": "ad06469750aa4e41f6b56316b3c255f84e193fe7"
         }
     ]
 }

@@ -8,6 +8,13 @@
             "sha": "a324eb4f1c7ace10ab02b9b07e725ac6a01e012b"
         },
         {
+            "name": "ChatGPT",
+            "filename": "ChatGPT.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/ChatGPT.mpa",
+            "size_bytes": 270100,
+            "sha": "b396c59157ab04d1c632be50e506b2a3609a5210"
+        },
+        {
             "name": "Discord",
             "filename": "Discord.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Discord.mpa",

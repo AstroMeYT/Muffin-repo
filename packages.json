@@ -120,6 +120,13 @@
             "sha": "8d316013f0539083a6971738a4bd6283d0c02c46"
         },
         {
+            "name": "Flathub",
+            "filename": "Flathub.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Flathub.mpa",
+            "size_bytes": 8287,
+            "sha": "1de4aea08d10b842c11b9a2e23db4e5aa239128e"
+        },
+        {
             "name": "Fluxer",
             "filename": "Fluxer.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Fluxer.mpa",

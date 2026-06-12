@@ -78,6 +78,13 @@
             "sha": "00aac816d89c32805c78287eb10b291c96fa830e"
         },
         {
+            "name": "Proton-Mail",
+            "filename": "Proton-Mail.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Proton-Mail.mpa",
+            "size_bytes": 17511,
+            "sha": "a26a5d56f158772c75f56e1d29d86693c3036ef3"
+        },
+        {
             "name": "Reddit",
             "filename": "Reddit.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Reddit.mpa",

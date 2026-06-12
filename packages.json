@@ -225,6 +225,13 @@
             "sha": "4cb7f2c7a082a793bc6278b4d54de73ed6ffbc92"
         },
         {
+            "name": "TurboWarp",
+            "filename": "TurboWarp.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/TurboWarp.mpa",
+            "size_bytes": 16903,
+            "sha": "a7709b02bcab243575579aa03d2d873959718b1c"
+        },
+        {
             "name": "VSCode",
             "filename": "VSCode.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/VSCode.mpa",

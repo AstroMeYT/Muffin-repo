@@ -15,18 +15,18 @@
             "sha": "a99d18b687b70f43ceddab7931fbd68037b19e92"
         },
         {
+            "name": "Docs",
+            "filename": "Docs.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Docs.mpa",
+            "size_bytes": 3104,
+            "sha": "e7b05f16e936882e9dc2662f5be043b98d5a53e1"
+        },
+        {
             "name": "Gmail",
             "filename": "Gmail.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Gmail.mpa",
             "size_bytes": 8749,
             "sha": "aa98092578e6e4f519a9ec90c870dfcf8c5efe60"
-        },
-        {
-            "name": "Google_Docs",
-            "filename": "Google_Docs.mpa",
-            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Google_Docs.mpa",
-            "size_bytes": 3104,
-            "sha": "e7b05f16e936882e9dc2662f5be043b98d5a53e1"
         },
         {
             "name": "Google_Earth",

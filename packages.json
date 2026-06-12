@@ -69,6 +69,13 @@
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Spotify.mpa",
             "size_bytes": 191064,
             "sha": "de3eb100a41caa26e70f5abac52269ca07b0f05e"
+        },
+        {
+            "name": "Telegram",
+            "filename": "Telegram.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Telegram.mpa",
+            "size_bytes": 172340,
+            "sha": "e74cbeb761b32205a015f7e2147fda204f62f054"
         }
     ]
 }

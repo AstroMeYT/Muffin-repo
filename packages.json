@@ -64,6 +64,13 @@
             "sha": "ad06469750aa4e41f6b56316b3c255f84e193fe7"
         },
         {
+            "name": "Fluxer",
+            "filename": "Fluxer.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Fluxer.mpa",
+            "size_bytes": 1378,
+            "sha": "ae9dc7f8e82b62e3c18b0c76cbe7f502019e91ee"
+        },
+        {
             "name": "Gemini",
             "filename": "Gemini.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Gemini.mpa",

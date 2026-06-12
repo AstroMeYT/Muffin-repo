@@ -62,6 +62,13 @@
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Slack.mpa",
             "size_bytes": 8688,
             "sha": "1d83be3d236657974db659499e09673c5f2732a0"
+        },
+        {
+            "name": "Spotify",
+            "filename": "Spotify.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Spotify.mpa",
+            "size_bytes": 191064,
+            "sha": "de3eb100a41caa26e70f5abac52269ca07b0f05e"
         }
     ]
 }

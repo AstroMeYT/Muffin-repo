@@ -281,6 +281,13 @@
             "sha": "26ea3c5764018d6eb50b9c168712ad3ea020b49e"
         },
         {
+            "name": "WebNote",
+            "filename": "WebNote.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/WebNote.mpa",
+            "size_bytes": 85408,
+            "sha": "a4d08f8e9647d9f8d29cb695cb30d3fe50f990da"
+        },
+        {
             "name": "WebVLC",
             "filename": "WebVLC.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/WebVLC.mpa",

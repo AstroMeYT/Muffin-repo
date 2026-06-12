@@ -176,6 +176,13 @@
             "sha": "cfc023fdf971858c482d590e0be929242d05e756"
         },
         {
+            "name": "Scratch",
+            "filename": "Scratch.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Scratch.mpa",
+            "size_bytes": 15425,
+            "sha": "5bbd77fec13d45fd681ceb4b90e621b016071c63"
+        },
+        {
             "name": "SearxNG",
             "filename": "SearxNG.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/SearxNG.mpa",

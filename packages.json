@@ -8,6 +8,13 @@
             "sha": "a324eb4f1c7ace10ab02b9b07e725ac6a01e012b"
         },
         {
+            "name": "Discord",
+            "filename": "Discord.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Discord.mpa",
+            "size_bytes": 2563,
+            "sha": "a99d18b687b70f43ceddab7931fbd68037b19e92"
+        },
+        {
             "name": "Gmail",
             "filename": "Gmail.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Gmail.mpa",

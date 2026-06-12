@@ -218,6 +218,13 @@
             "sha": "4cb7f2c7a082a793bc6278b4d54de73ed6ffbc92"
         },
         {
+            "name": "VSCode",
+            "filename": "VSCode.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/VSCode.mpa",
+            "size_bytes": 111964,
+            "sha": "26ea3c5764018d6eb50b9c168712ad3ea020b49e"
+        },
+        {
             "name": "WebVLC",
             "filename": "WebVLC.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/WebVLC.mpa",

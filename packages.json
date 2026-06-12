@@ -71,6 +71,13 @@
             "sha": "05c265ba831cf851f0f744d0d729188b272c2291"
         },
         {
+            "name": "Plex",
+            "filename": "Plex.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Plex.mpa",
+            "size_bytes": 11877,
+            "sha": "00aac816d89c32805c78287eb10b291c96fa830e"
+        },
+        {
             "name": "Reddit",
             "filename": "Reddit.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Reddit.mpa",

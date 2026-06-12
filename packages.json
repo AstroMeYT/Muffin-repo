@@ -218,6 +218,13 @@
             "sha": "4cb7f2c7a082a793bc6278b4d54de73ed6ffbc92"
         },
         {
+            "name": "WebVLC",
+            "filename": "WebVLC.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/WebVLC.mpa",
+            "size_bytes": 33948,
+            "sha": "5c8a12724203d9f2b0ec91fea5ba7947c1fb8c63"
+        },
+        {
             "name": "WhatsApp",
             "filename": "WhatsApp.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/WhatsApp.mpa",

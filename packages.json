@@ -29,6 +29,13 @@
             "sha": "2b2c847d9660c1667180b204b856cf277b9dc282"
         },
         {
+            "name": "CopySh-v86",
+            "filename": "CopySh-v86.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/CopySh-v86.mpa",
+            "size_bytes": 1931,
+            "sha": "cfa0ab05c42b715fd3009ac5777395aedff556c7"
+        },
+        {
             "name": "Discord",
             "filename": "Discord.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Discord.mpa",

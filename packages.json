@@ -43,6 +43,13 @@
             "sha": "ad06469750aa4e41f6b56316b3c255f84e193fe7"
         },
         {
+            "name": "Gemini",
+            "filename": "Gemini.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Gemini.mpa",
+            "size_bytes": 311562,
+            "sha": "3a65c79d8601ded105a74d8fd142943e7a9d83b6"
+        },
+        {
             "name": "Gmail",
             "filename": "Gmail.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Gmail.mpa",

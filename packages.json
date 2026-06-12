@@ -83,6 +83,13 @@
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/WhatsApp.mpa",
             "size_bytes": 60421,
             "sha": "86754f4c7dd1acb8c6032104305dffc3ef207a92"
+        },
+        {
+            "name": "YouTube",
+            "filename": "YouTube.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/YouTube.mpa",
+            "size_bytes": 1108,
+            "sha": "b90a72ae03a8c2ad91a76b7b635ac33901c3b61a"
         }
     ]
 }

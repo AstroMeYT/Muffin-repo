@@ -134,6 +134,13 @@
             "sha": "86754f4c7dd1acb8c6032104305dffc3ef207a92"
         },
         {
+            "name": "Wordle",
+            "filename": "Wordle.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Wordle.mpa",
+            "size_bytes": 3718,
+            "sha": "0932c8dfda989c1fb4d81315b1a397433f96e6a6"
+        },
+        {
             "name": "YouTube",
             "filename": "YouTube.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/YouTube.mpa",

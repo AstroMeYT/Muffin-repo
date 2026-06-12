@@ -36,6 +36,13 @@
             "sha": "56c4190b7478295d5c1f43cea1cf367759b52f42"
         },
         {
+            "name": "Calendar",
+            "filename": "Calendar.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Calendar.mpa",
+            "size_bytes": 990,
+            "sha": "c5a2e07ff6dc737ae8b0241196276faaa55b01f3"
+        },
+        {
             "name": "ChatGPT",
             "filename": "ChatGPT.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/ChatGPT.mpa",

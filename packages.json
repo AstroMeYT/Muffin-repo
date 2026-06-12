@@ -1,6 +1,13 @@
 {
     "packages": [
         {
+            "name": "2048",
+            "filename": "2048.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/2048.mpa",
+            "size_bytes": 114779,
+            "sha": "a324eb4f1c7ace10ab02b9b07e725ac6a01e012b"
+        },
+        {
             "name": "Gmail",
             "filename": "Gmail.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Gmail.mpa",

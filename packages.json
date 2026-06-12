@@ -15,6 +15,13 @@
             "sha": "d824ad2b4522ebddce7421bf5feafc5ab1b2790a"
         },
         {
+            "name": "Brave",
+            "filename": "Brave.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Brave.mpa",
+            "size_bytes": 39002,
+            "sha": "56c4190b7478295d5c1f43cea1cf367759b52f42"
+        },
+        {
             "name": "ChatGPT",
             "filename": "ChatGPT.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/ChatGPT.mpa",
@@ -125,6 +132,13 @@
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Reddit.mpa",
             "size_bytes": 13364,
             "sha": "cfc023fdf971858c482d590e0be929242d05e756"
+        },
+        {
+            "name": "SearxNG",
+            "filename": "SearxNG.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/SearxNG.mpa",
+            "size_bytes": 173407,
+            "sha": "0d1b861f1c86054f09e9c16278b8e5509b57bfea"
         },
         {
             "name": "Sheets",

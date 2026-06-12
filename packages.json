@@ -57,6 +57,13 @@
             "sha": "3a65c79d8601ded105a74d8fd142943e7a9d83b6"
         },
         {
+            "name": "GitHub",
+            "filename": "GitHub.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/GitHub.mpa",
+            "size_bytes": 3069,
+            "sha": "a04f7292d3f87d09e6cf7b81831c995a015fe650"
+        },
+        {
             "name": "Gmail",
             "filename": "Gmail.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Gmail.mpa",

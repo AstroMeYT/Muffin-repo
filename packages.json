@@ -57,6 +57,13 @@
             "sha": "aa98092578e6e4f519a9ec90c870dfcf8c5efe60"
         },
         {
+            "name": "PacMan",
+            "filename": "PacMan.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/PacMan.mpa",
+            "size_bytes": 19436,
+            "sha": "35b764ee2074c349e80e8da6db2c3ac603105262"
+        },
+        {
             "name": "Photopea",
             "filename": "Photopea.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Photopea.mpa",

@@ -36,6 +36,13 @@
             "sha": "ad06469750aa4e41f6b56316b3c255f84e193fe7"
         },
         {
+            "name": "Google_Sheets",
+            "filename": "Google_Sheets.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Google_Sheets.mpa",
+            "size_bytes": 5727,
+            "sha": "0d36954ec79e48c8e5ee28fb91f313b4d59bd069"
+        },
+        {
             "name": "Photopea",
             "filename": "Photopea.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Photopea.mpa",

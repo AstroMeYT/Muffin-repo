@@ -71,6 +71,13 @@
             "sha": "b1fe44e11a3f47138b77786ed4eed61d6780ae84"
         },
         {
+            "name": "Invidious",
+            "filename": "Invidious.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Invidious.mpa",
+            "size_bytes": 21502,
+            "sha": "410d16852445bafb6022a94e88cfde377e775fc2"
+        },
+        {
             "name": "PacMan",
             "filename": "PacMan.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/PacMan.mpa",

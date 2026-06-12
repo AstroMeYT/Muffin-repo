@@ -8,6 +8,13 @@
             "sha": "a324eb4f1c7ace10ab02b9b07e725ac6a01e012b"
         },
         {
+            "name": "AccuWeather",
+            "filename": "AccuWeather.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/AccuWeather.mpa",
+            "size_bytes": 8370,
+            "sha": "17fbbbf4c57c06302019822b6ff908896ca74add"
+        },
+        {
             "name": "ArchiveOrg",
             "filename": "ArchiveOrg.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/ArchiveOrg.mpa",

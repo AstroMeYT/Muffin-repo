@@ -113,6 +113,13 @@
             "sha": "410d16852445bafb6022a94e88cfde377e775fc2"
         },
         {
+            "name": "Netflix",
+            "filename": "Netflix.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Netflix.mpa",
+            "size_bytes": 116592,
+            "sha": "0be71620ced58ad79abb8c9383de25138f5c2196"
+        },
+        {
             "name": "PacMan",
             "filename": "PacMan.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/PacMan.mpa",

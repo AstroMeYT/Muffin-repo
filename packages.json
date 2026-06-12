@@ -99,6 +99,13 @@
             "sha": "aa98092578e6e4f519a9ec90c870dfcf8c5efe60"
         },
         {
+            "name": "Hulu",
+            "filename": "Hulu.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Hulu.mpa",
+            "size_bytes": 7952,
+            "sha": "90da94d0e0e5a35bf6a7f362ab39daa2fd41c5c4"
+        },
+        {
             "name": "Instant-io",
             "filename": "Instant-io.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Instant-io.mpa",

@@ -106,6 +106,13 @@
             "sha": "ad06469750aa4e41f6b56316b3c255f84e193fe7"
         },
         {
+            "name": "Facebook",
+            "filename": "Facebook.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Facebook.mpa",
+            "size_bytes": 118308,
+            "sha": "8d316013f0539083a6971738a4bd6283d0c02c46"
+        },
+        {
             "name": "Fluxer",
             "filename": "Fluxer.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Fluxer.mpa",

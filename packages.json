@@ -141,6 +141,13 @@
             "sha": "35b764ee2074c349e80e8da6db2c3ac603105262"
         },
         {
+            "name": "PenguinMod",
+            "filename": "PenguinMod.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/PenguinMod.mpa",
+            "size_bytes": 11575,
+            "sha": "5e7400b37982b1ca6ec5e18e2b0245f5c5ca107a"
+        },
+        {
             "name": "Photopea",
             "filename": "Photopea.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Photopea.mpa",

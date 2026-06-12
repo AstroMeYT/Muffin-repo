@@ -29,9 +29,9 @@
             "sha": "ce30227f922fdc0157ac30cb473cd60725d0d665"
         },
         {
-            "name": "Bitwarden_Vault",
-            "filename": "Bitwarden_Vault.mpa",
-            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Bitwarden_Vault.mpa",
+            "name": "Bitwarden-Vault",
+            "filename": "Bitwarden-Vault.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Bitwarden-Vault.mpa",
             "size_bytes": 7969,
             "sha": "d824ad2b4522ebddce7421bf5feafc5ab1b2790a"
         },

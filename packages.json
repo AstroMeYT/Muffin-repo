@@ -57,6 +57,13 @@
             "sha": "a99d18b687b70f43ceddab7931fbd68037b19e92"
         },
         {
+            "name": "DisneyPlus",
+            "filename": "DisneyPlus.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/DisneyPlus.mpa",
+            "size_bytes": 26671,
+            "sha": "87d562095e7e2f362c9a85d9d2c54859cd9a97e7"
+        },
+        {
             "name": "Docs",
             "filename": "Docs.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Docs.mpa",

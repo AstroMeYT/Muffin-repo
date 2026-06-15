@@ -190,6 +190,13 @@
             "sha": "0be71620ced58ad79abb8c9383de25138f5c2196"
         },
         {
+            "name": "News",
+            "filename": "News.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/News.mpa",
+            "size_bytes": 20558,
+            "sha": "20eadd194a26f7a101c2997352325e24db2ed02a"
+        },
+        {
             "name": "PacMan",
             "filename": "PacMan.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/PacMan.mpa",

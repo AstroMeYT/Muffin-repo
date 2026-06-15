@@ -351,6 +351,13 @@
             "sha": "0932c8dfda989c1fb4d81315b1a397433f96e6a6"
         },
         {
+            "name": "YTMusic",
+            "filename": "YTMusic.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/YTMusic.mpa",
+            "size_bytes": 5794,
+            "sha": "537382a72756628966df337442d2f9f5a2460e97"
+        },
+        {
             "name": "Yandex-Games",
             "filename": "Yandex-Games.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/Yandex-Games.mpa",

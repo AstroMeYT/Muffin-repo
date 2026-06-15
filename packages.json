@@ -204,6 +204,13 @@
             "sha": "35b764ee2074c349e80e8da6db2c3ac603105262"
         },
         {
+            "name": "PeerTube",
+            "filename": "PeerTube.mpa",
+            "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/PeerTube.mpa",
+            "size_bytes": 2240,
+            "sha": "ed4d4d3b967745de1eaa73784d5c9d48749ae29a"
+        },
+        {
             "name": "PenguinMod",
             "filename": "PenguinMod.mpa",
             "download_url": "https://raw.githubusercontent.com/AstroMeYT/Muffin-repo/main/packages/PenguinMod.mpa",
